@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Gissele
 
-<!--
-**Gisseleee/gisseleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrolladora web en formación, apasionada por el diseño, la programación y la mejora continua.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy trabajando en proyectos de desarrollo web.
+- 🌱 Aprendiendo: HTML, CSS, JavaScript, PHP y bases de datos.
+- 👯 Buscando colaborar en proyectos que me permitan crecer profesionalmente.
+- 📚 Estudiante en el área de programación y digitalización aplicada a los sectores productivos.
+- 💬 Pregúntame sobre diseño web, maquetación o temas relacionados con el desarrollo frontend.
+- 📫 Puedes contactarme en: gissela12@live.com.
+
+
+## ⚡ Curiosidades
+
+- 🎨 Me encanta todo lo relacionado con la estética visual y la creatividad.
+- ✨ Siempre estoy buscando nuevas formas de aprender y mejorar mis habilidades.
